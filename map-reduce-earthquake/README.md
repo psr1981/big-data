@@ -1,4 +1,4 @@
-#Seismic Analytics:
+# Seismic Analytics:
 
 Suppose you have just become the Development Lead for a company which specializes in reading seismic data which measure earthquake magnitudes around the world. There are thousands of such sensors deployed around the world recording earthquake data in log files, the following format:
 
