@@ -2,9 +2,7 @@
 hdfs dfs -put input.csv
 
 # To compile map reduce job
-```
 javac -cp `hadoop classpath` *.java
-```
 
 # To create jar file of map reduce job
 jar cf EarthQuakeAnalysis.jar *.class
